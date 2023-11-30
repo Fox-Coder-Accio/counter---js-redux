@@ -8,9 +8,11 @@ export default store
 
 
 
-// dispatch({type:INCREMENT, value: 1})
+// dispatch({type:INCREMENT, value: 100})
 
-// counterReducer(0,{type:INCREMENT, value: 1}) => 1
+//counterReducer(0, {type:INCREMENT, value: 100})
+
+
 
 
 // dispatch({type:INCREMENT})

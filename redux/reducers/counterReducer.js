@@ -8,7 +8,7 @@ let initialState = 0
 // counterReducer()
 //counterReducer(0,{type:INCREMENT}) =>
 
-// counterReducer(0,{type:INCREMENT, value: 1})
+// counterReducer(0,{type:INCREMENT, value: 100})
 
 function counterReducer(state=initialState, actions){
        switch(actions.type){
